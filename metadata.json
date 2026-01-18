@@ -1,0 +1,7 @@
+{
+  "name": "Echo - Voice-First Discovery",
+  "description": "A Spotify-inspired dating and social discovery app where AI curates 'Datelists' based on real voice conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
